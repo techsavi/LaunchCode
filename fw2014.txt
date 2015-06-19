@@ -1,0 +1,80 @@
+1,2,Piranha Attack,Piranha-Attack.png
+2,63,Texas Cyclone,Texas-Cyclone.png
+3,33,Extra Stout,extra_stout_lg.png
+4,50,Wow!,wow_lg.png
+5,73,Moonshine Mother,unknown.png
+6,39,Turf Wars,turfwars_lg.png
+7,8,Fire Island,Fire-Island.png
+8,44,Screaming Twisters,unknown.png
+9,61,Target Practice,Target-Practice.png
+10,9,Chopper,Chopper.png
+11,17,Radio Active,Radioactive.png
+12,29,Silver Screen,silver_screen_lg.png
+13,70,Suspended Animation,Suspended-Animation.png
+14,48,Phantasm II,Phantasm-II.png
+15,18,Battle of Saratoga,Battle-of-Saratoga.png
+16,22,Pyro Pixie Dust,Pyro-Pixie-Dust.png
+17,43,Raptor,Raptor.png
+18,7,Shootout,Shootout.png
+19,27,Wild West,Wild-West.png
+20,59,Up in Smoke,Up-in-Smoke.png
+21,75,Irish Legend,Irish-Legend.png
+22,41,Triton's Tempest,Tritons-Tempest.png
+23,20,Hootenanny,Hootenanny.png
+24,0,Pyro Dynasty,pyrodynasty.png
+25,14,Fat Chance,fat-chance.png
+26,54,Swarming Skeeters,Swarming-Skeeters.png
+27,77,Loud and Nasty,loud_and_nasty.png
+28,30,Palm Pyro Pageantry,Palm-Pyro-Pageantry.png
+29,13,Black Thunder,Black-Thunder.png
+30,5,Cataclysm,Cataclysm.png
+31,40,Catcalls (Fountain),Catcalls.png
+32,4,Hot Time,unknown.png
+33,34,Tempt Fate,temptfate_lg.png
+34,76,Whirlwind,Whirlwind.png
+35,10,'Neath the Red White & Blue,Neath-Red-White-Blue.png
+36,26,Virtual Reality,unknown.png
+37,53,Current Events,Current-Events.png
+38,69,War Chest,War-Chest.png
+39,11,Gonzo,Gonzo.png
+40,51,Fan-tabulous,Fan-Tabulous.png
+41,31,Star Quest,Star-Quest.png
+42,49,Blue Brocade Barrage,Blue-Brocade-Barrage.png
+43,66,Epic Explosions,unknown.png
+44,71,Jolt,Jolt.png
+45,16,Hot & Spicy,Hot-Spicy.png
+46,57,Swamp Dawg,Swamp-Dawg.png
+47,32,Show of Strength,Show-of-Strength.png
+48,68,Justified,Justified.png
+49,28,Critical Blast,Critical-Blast.png
+50,19,Essence of Fire,Essence-of-Fire.png
+51,62,The Quest,The-Quest.png
+52,6,Beyond Reason,Beyond-Reason.png
+53,37,Dark Revenge,Dark-Revenge.png
+54,46,Too Damn Good,Too-Damn-Good.png
+55,58,Urban Warrior,Urban-Warrior.png
+56,78,Live Free or Die,live_freeordie_item_lg.png
+57,65,Silver Sonic Warhead Premiere,Silver-Sonic-Warhead-Premiere.png
+58,24,Johnny B Good,Johnny-B-Good.png
+59,55,Stellar Storm,Stellar-Storm.png
+60,23,Bombilation,Bombilation.png
+61,15,Night Assassin,Night-Assassin.png
+62,74,Mt. Olympus Thunder,Mt-Olympus-Thunder.png
+63,36,Mastermind,mastermind_lg.png
+64,42,Burst & Bloom,Burst-and-Bloom.png
+65,79,Here and Now,Here-and-Now.png
+66,3,Moonshine,moonshine_lg.png
+67,64,Denied,denied_lg.png
+68,35,Heat Wave,heatwave_lg.png
+69,25,Bold Colors,boldcolors_lg.png
+70,12,The Real McCoy,the_real_mccoy_lg.png
+71,52,High Performance Display,High-Performance-Display.png
+72,47,Untamed Retribution,Untamed-Retribution.png
+73,38,Gator Hunter,Gator-Hunter.png
+74,72,Razzmatazz,razzmatazz_lg.png
+75,60,Bond,Bond.png
+76,56,You Da' Man,You-Da-Man.png
+77,21,Pyro Monkey,pyro-monkey.png
+78,45,Psych-O-Delic,psych_o_delic_lg.png
+79,1,Real Steel,Real-Steel.png
+80,67,Finale!!,fireworks.jpg
